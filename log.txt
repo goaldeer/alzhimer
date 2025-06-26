@@ -1,0 +1,119 @@
+Drive already mounted at /content/drive; to attempt to forcibly remount, call drive.mount("/content/drive", force_remount=True).
+총 100개의 다른 랜덤 시드로 최적의 성능을 보이는 값을 탐색합니다...
+Seed 00 | Accuracy: 0.7273 | F1-Score: 0.7293
+Seed 01 | Accuracy: 0.6667 | F1-Score: 0.6907
+WARNING:tensorflow:5 out of the last 5 calls to <function TensorFlowTrainer.make_predict_function.<locals>.one_step_on_data_distributed at 0x7a4c95032c00> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+WARNING:tensorflow:6 out of the last 6 calls to <function TensorFlowTrainer.make_predict_function.<locals>.one_step_on_data_distributed at 0x7a4c95032c00> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+Seed 02 | Accuracy: 0.6667 | F1-Score: 0.7030
+Seed 03 | Accuracy: 0.6667 | F1-Score: 0.6818
+Seed 04 | Accuracy: 0.6970 | F1-Score: 0.7212
+Seed 05 | Accuracy: 0.7273 | F1-Score: 0.7394
+Seed 06 | Accuracy: 0.6364 | F1-Score: 0.6488
+Seed 07 | Accuracy: 0.6667 | F1-Score: 0.6907
+Seed 08 | Accuracy: 0.7273 | F1-Score: 0.7394
+Seed 09 | Accuracy: 0.7879 | F1-Score: 0.7731
+Seed 10 | Accuracy: 0.7273 | F1-Score: 0.7394
+Seed 11 | Accuracy: 0.6970 | F1-Score: 0.7216
+Seed 12 | Accuracy: 0.6970 | F1-Score: 0.7212
+Seed 13 | Accuracy: 0.7879 | F1-Score: 0.7731
+Seed 14 | Accuracy: 0.6667 | F1-Score: 0.6943
+Seed 15 | Accuracy: 0.6667 | F1-Score: 0.7030
+Seed 16 | Accuracy: 0.7273 | F1-Score: 0.7398
+Seed 17 | Accuracy: 0.6970 | F1-Score: 0.7216
+Seed 18 | Accuracy: 0.7576 | F1-Score: 0.7576
+Seed 19 | Accuracy: 0.7879 | F1-Score: 0.7747
+Seed 20 | Accuracy: 0.7273 | F1-Score: 0.7398
+Seed 21 | Accuracy: 0.6970 | F1-Score: 0.7216
+Seed 22 | Accuracy: 0.6364 | F1-Score: 0.6758
+Seed 23 | Accuracy: 0.7576 | F1-Score: 0.7576
+Seed 24 | Accuracy: 0.6970 | F1-Score: 0.7212
+Seed 25 | Accuracy: 0.7576 | F1-Score: 0.7565
+Seed 26 | Accuracy: 0.7273 | F1-Score: 0.7268
+Seed 27 | Accuracy: 0.6364 | F1-Score: 0.6488
+Seed 28 | Accuracy: 0.6667 | F1-Score: 0.7030
+Seed 29 | Accuracy: 0.6970 | F1-Score: 0.7091
+Seed 30 | Accuracy: 0.6667 | F1-Score: 0.6943
+Seed 31 | Accuracy: 0.7576 | F1-Score: 0.7576
+Seed 32 | Accuracy: 0.6667 | F1-Score: 0.7019
+Seed 33 | Accuracy: 0.6061 | F1-Score: 0.6516
+Seed 34 | Accuracy: 0.7273 | F1-Score: 0.7398
+Seed 35 | Accuracy: 0.6970 | F1-Score: 0.7121
+Seed 36 | Accuracy: 0.6667 | F1-Score: 0.7030
+Seed 37 | Accuracy: 0.7879 | F1-Score: 0.7731
+Seed 38 | Accuracy: 0.7879 | F1-Score: 0.7603
+Seed 39 | Accuracy: 0.8182 | F1-Score: 0.7912
+Seed 40 | Accuracy: 0.7576 | F1-Score: 0.7565
+Seed 41 | Accuracy: 0.7273 | F1-Score: 0.7394
+Seed 42 | Accuracy: 0.6667 | F1-Score: 0.6818
+Seed 43 | Accuracy: 0.6061 | F1-Score: 0.6565
+Seed 44 | Accuracy: 0.6667 | F1-Score: 0.6907
+Seed 45 | Accuracy: 0.6364 | F1-Score: 0.6758
+Seed 46 | Accuracy: 0.6970 | F1-Score: 0.7216
+Seed 47 | Accuracy: 0.7879 | F1-Score: 0.7747
+Seed 48 | Accuracy: 0.7273 | F1-Score: 0.7394
+Seed 49 | Accuracy: 0.7879 | F1-Score: 0.7747
+Seed 50 | Accuracy: 0.6667 | F1-Score: 0.7030
+Seed 51 | Accuracy: 0.7879 | F1-Score: 0.7747
+Seed 52 | Accuracy: 0.7273 | F1-Score: 0.7394
+Seed 53 | Accuracy: 0.8182 | F1-Score: 0.7912
+Seed 54 | Accuracy: 0.6970 | F1-Score: 0.7216
+Seed 55 | Accuracy: 0.7273 | F1-Score: 0.7394
+Seed 56 | Accuracy: 0.8182 | F1-Score: 0.7912
+Seed 57 | Accuracy: 0.7879 | F1-Score: 0.7731
+Seed 58 | Accuracy: 0.7576 | F1-Score: 0.7565
+Seed 59 | Accuracy: 0.7273 | F1-Score: 0.7398
+Seed 60 | Accuracy: 0.6970 | F1-Score: 0.6995
+Seed 61 | Accuracy: 0.6364 | F1-Score: 0.6837
+Seed 62 | Accuracy: 0.7273 | F1-Score: 0.7398
+Seed 63 | Accuracy: 0.7273 | F1-Score: 0.7394
+Seed 64 | Accuracy: 0.7273 | F1-Score: 0.7398
+Seed 65 | Accuracy: 0.7273 | F1-Score: 0.7293
+Seed 66 | Accuracy: 0.6970 | F1-Score: 0.7216
+Seed 67 | Accuracy: 0.8485 | F1-Score: 0.8072
+Seed 68 | Accuracy: 0.7273 | F1-Score: 0.7166
+Seed 69 | Accuracy: 0.6364 | F1-Score: 0.6837
+Seed 70 | Accuracy: 0.6970 | F1-Score: 0.7212
+Seed 71 | Accuracy: 0.7273 | F1-Score: 0.7394
+Seed 72 | Accuracy: 0.7576 | F1-Score: 0.7576
+Seed 73 | Accuracy: 0.6667 | F1-Score: 0.7030
+Seed 74 | Accuracy: 0.7576 | F1-Score: 0.7565
+Seed 75 | Accuracy: 0.6970 | F1-Score: 0.7121
+Seed 76 | Accuracy: 0.6667 | F1-Score: 0.7030
+Seed 77 | Accuracy: 0.7273 | F1-Score: 0.7394
+Seed 78 | Accuracy: 0.6970 | F1-Score: 0.7216
+Seed 79 | Accuracy: 0.6970 | F1-Score: 0.7216
+Seed 80 | Accuracy: 0.7576 | F1-Score: 0.7576
+Seed 81 | Accuracy: 0.6667 | F1-Score: 0.6943
+Seed 82 | Accuracy: 0.7576 | F1-Score: 0.7458
+Seed 83 | Accuracy: 0.6364 | F1-Score: 0.6758
+Seed 84 | Accuracy: 0.7273 | F1-Score: 0.7268
+Seed 85 | Accuracy: 0.6364 | F1-Score: 0.6837
+Seed 86 | Accuracy: 0.7273 | F1-Score: 0.7394
+Seed 87 | Accuracy: 0.7273 | F1-Score: 0.7394
+Seed 88 | Accuracy: 0.7879 | F1-Score: 0.7747
+Seed 89 | Accuracy: 0.6970 | F1-Score: 0.6995
+Seed 90 | Accuracy: 0.6970 | F1-Score: 0.7212
+Seed 91 | Accuracy: 0.7576 | F1-Score: 0.7565
+Seed 92 | Accuracy: 0.7273 | F1-Score: 0.7394
+Seed 93 | Accuracy: 0.7879 | F1-Score: 0.7731
+Seed 94 | Accuracy: 0.7273 | F1-Score: 0.7293
+Seed 95 | Accuracy: 0.7273 | F1-Score: 0.7394
+Seed 96 | Accuracy: 0.6970 | F1-Score: 0.7216
+Seed 97 | Accuracy: 0.7576 | F1-Score: 0.7565
+Seed 98 | Accuracy: 0.6970 | F1-Score: 0.7216
+Seed 99 | Accuracy: 0.7576 | F1-Score: 0.7565
+
+========================================
+           최적 시드 탐색 완료
+========================================
+
+최적의 랜덤 시드: 67
+해당 시드에서의 검증 정확도: 84.85%
+해당 시드에서의 가중 평균 F1-Score: 0.8072
+
+--- 해석 및 주의사항 ---
+1. 이 시드는 현재 주어진 훈련/검증 데이터셋 분할에 대해 최적화된 값입니다.
+2. 완전히 새로운 데이터(Test set)에 대해서도 최고의 성능을 보장하는 것은 아닙니다.
+3. 실험의 '재현성'을 확보하고, 여러 시도 중 가장 좋았던 결과를 보고하기 위한 목적으로 사용됩니다.
+4. 보고서나 발표 시, 모델의 최종 성능을 보고할 때 'random_state=67'로 고정하여 실험을 재현할 수 있습니다.
+
